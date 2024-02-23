@@ -3,3 +3,5 @@ Danni said branching is ...
 a command line in git that creates a separate version of code before making it to production. 
 
 Commit 1
+Commit 2
+Commit 3
