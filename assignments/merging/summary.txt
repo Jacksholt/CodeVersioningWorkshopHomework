@@ -3,3 +3,4 @@ Danni said merging is ...
 a command line in git that merges or combines a branch that has been reviewed and ready to make into production.
 
 Commit 1
+Commit 2
